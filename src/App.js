@@ -1,4 +1,4 @@
-import cat from './assets/images/cat.jpeg';
+import cat from './cat.jpeg';
 import './App.css';
 import React, { useState } from 'react';
 
